@@ -1,9 +1,9 @@
 # Executive Summary: Waco VSC Enrollment Optimization
 
 ---
-### **Management Analyst:** Daniel Rodriguez III
+#### **Management Analyst:** Daniel Rodriguez III
 
-### **Date:** July 31, 2026
+#### **Date:** July 31, 2026
 
 ---
 
